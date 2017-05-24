@@ -1,0 +1,11 @@
+{
+  "name": "marvin",
+  "version": "1.0.0",
+  "description": "Primitive chat assistant",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Ivan Kukobko",
+  "license": "ISC"
+}
